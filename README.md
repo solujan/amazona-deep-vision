@@ -10,3 +10,5 @@ Furthermore, these existing methods generally cannot differentiate between human
 In this competition, Planet and its Brazilian partner SCCON are challenging Kagglers to label satellite image chips with atmospheric conditions and various classes of land cover/land use. Resulting algorithms will help the global community better understand where, how, and why deforestation happens all over the world - and ultimately how to respond.
 
 This is my solution with CNN.
+
+COLAB LINK: https://colab.research.google.com/drive/1gaxKNRF-12B_Y4-nhOyZDH6UT0VcK1tX#scrollTo=xK4vC1w6c7DX
